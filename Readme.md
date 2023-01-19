@@ -12,6 +12,9 @@ Ferramentas Ulizadas
 
 # Extensões para Visual Studio Code
 
+![Material_Theme_Icons-removebg-preview](https://user-images.githubusercontent.com/98665329/213585923-18bdaaad-b885-44b0-8d11-943c024bf3c2.png)
+
+
 - Material Icon Theme
 + Auto Rename Tag
 - Live Server
