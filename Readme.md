@@ -1,4 +1,5 @@
 # Aplicação de Clima com OpenWeather 
+![OpenWeather](https://user-images.githubusercontent.com/98665329/213585300-dc8cb510-9fa1-426b-8855-0b339a18e7e8.PNG)
 
 Ferramentas Ulizadas
 
