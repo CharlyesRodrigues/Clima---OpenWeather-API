@@ -4,7 +4,7 @@ Ferramentas Ulizadas
 
 1) CSS => responsável pela estilização do projeto,
 
-2)HTML => linguagem de marcação,
+2) HTML => linguagem de marcação,
 
 3) JAVASCRIPT => linguagem de programação utilizada.
 
