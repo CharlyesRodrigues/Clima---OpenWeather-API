@@ -24,7 +24,10 @@ Ubuntu => instalei essa com todas suas variações
 
 
 
-<!--   Font Awesome--> => ícones ir em cdn js => https://cdnjs.com/libraries/font-awesome
+# Font Awesome
+
+Ícones ir em cdn js => https://cdnjs.com/libraries/font-awesome
+
 <link rel="stylesheet" 
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" 
       integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" 
