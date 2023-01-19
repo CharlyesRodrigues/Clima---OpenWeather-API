@@ -43,6 +43,8 @@ Ubuntu => instalei essa com todas suas variações
  * ( API utilizada (Current weather data) => https://api.openweathermap.org/data/2.5/weather?)
   
  * CountryFlagsAPI          https://www.countryflagsapi.com/
+
+  Esse projetinho nos permite tanto pesquisar cidades como país e nos mostra suas respectivas bandeiras.
  
  
 ![Tela principal](https://user-images.githubusercontent.com/98665329/213582652-4672fe2f-ec7b-4158-bcbf-8f1bc3507bef.PNG)
