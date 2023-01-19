@@ -43,3 +43,15 @@ API'S
  * ( API utilizada (Current weather data) => https://api.openweathermap.org/data/2.5/weather?)
   
  * CountryFlagsAPI          https://www.countryflagsapi.com/
+ 
+ 
+![Tela principal](https://user-images.githubusercontent.com/98665329/213582652-4672fe2f-ec7b-4158-bcbf-8f1bc3507bef.PNG)
+
+![Brasil](https://user-images.githubusercontent.com/98665329/213582702-37a61d38-013d-443c-8b3e-5b3af7195635.PNG)
+
+![Espanha](https://user-images.githubusercontent.com/98665329/213582722-386d2c2f-b5d5-4e57-b8a2-be17277f71aa.PNG)
+
+![Santos](https://user-images.githubusercontent.com/98665329/213582736-cd48e5a1-92a9-4613-9c8c-723364af749e.PNG)
+
+![Flórida](https://user-images.githubusercontent.com/98665329/213582754-2ee03c39-7291-4e02-892a-396e1af309ad.PNG)
+
