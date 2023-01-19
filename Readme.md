@@ -1,17 +1,17 @@
-##Aplicação de Clima com OpenWeather 
+# Aplicação de Clima com OpenWeather 
 
 Ferramentas Ulizadas
 
-* CSS => responsável pela estilização do projeto,
-* HTML => linguagem de marcação,
-* JAVASCRIPT => linguagem de programação utilizada.
+1) CSS => responsável pela estilização do projeto,
+2)HTML => linguagem de marcação,
+3) JAVASCRIPT => linguagem de programação utilizada.
 
 
-Extensões para Visual Studio Code
+# Extensões para Visual Studio Code
 
-* Material Icon Theme
-* Auto Rename Tag
-* Live Server
+- Material Icon Theme
++ Auto Rename Tag
+- Live Server
 
 <!--  Google Fonts  --> 
 Ubuntu => instalei essa com todas suas variações
