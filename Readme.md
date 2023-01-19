@@ -3,7 +3,9 @@
 Ferramentas Ulizadas
 
 1) CSS => responsável pela estilização do projeto,
+
 2)HTML => linguagem de marcação,
+
 3) JAVASCRIPT => linguagem de programação utilizada.
 
 
@@ -13,7 +15,7 @@ Ferramentas Ulizadas
 + Auto Rename Tag
 - Live Server
 
-<!--  Google Fonts  --> 
+  ## Google Fonts
 Ubuntu => instalei essa com todas suas variações
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -34,5 +36,7 @@ Ubuntu => instalei essa com todas suas variações
 API'S
 
  * Weather API  cadastro => https://openweathermap.org/api
-  ( API utilizada (Current weather data) => https://api.openweathermap.org/data/2.5/weather?)
+ 
+ * ( API utilizada (Current weather data) => https://api.openweathermap.org/data/2.5/weather?)
+  
  * CountryFlagsAPI          https://www.countryflagsapi.com/
