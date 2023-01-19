@@ -16,7 +16,7 @@ Ferramentas Ulizadas
 + Auto Rename Tag
 - Live Server
 
-  ## Google Fonts
+## Google Fonts
 Ubuntu => instalei essa com todas suas variações
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
