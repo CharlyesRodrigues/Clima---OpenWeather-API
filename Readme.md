@@ -3,11 +3,13 @@
 
 Ferramentas Ulizadas
 
-1) CSS (Cascading Style Sheets) => responsável pela estilização do projeto,ou seja, ele dá vida aos códigos criado pelas linguagens HTML, XML ou XHTML.
+1) CSS (Cascading Style Sheets) => responsável pela estilização do projeto,ou seja, ele dá vida aos códigos 
+criado pelas linguagens HTML, XML ou XHTML.
 
 2) HTML (Hypertext Markup Language) => É uma linguagem usada para estruturar os layouts das páginas web;
 
-3) JAVASCRIPT => linguagem de programação utilizada.
+3) JAVASCRIPT => JavaScript, originalmente, é uma linguagem de programação client-side, ou seja, é executada
+do lado do usuário, mais especificamente pelo navegador utilizado por este usuário.
 
 
 # Extensões para Visual Studio Code
