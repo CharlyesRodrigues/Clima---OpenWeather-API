@@ -3,9 +3,9 @@
 
 Ferramentas Ulizadas
 
-1) CSS => responsável pela estilização do projeto,
+1) CSS (Cascading Style Sheets) => responsável pela estilização do projeto,ou seja, ele dá vida aos códigos criado pelas linguagens HTML, XML ou XHTML.
 
-2) HTML => linguagem de marcação,
+2) HTML (Hypertext Markup Language) => É uma linguagem usada para estruturar os layouts das páginas web;
 
 3) JAVASCRIPT => linguagem de programação utilizada.
 
