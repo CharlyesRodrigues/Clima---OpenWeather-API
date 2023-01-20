@@ -1,9 +1,9 @@
 
 // Variáveis e seleção de elementos
 
-//const apiKey ="396c4ad39fcc07c9dbfe4bce05476d22";  //trocar chave minha
 
-const apiKey ="ba605efc18f1572f61892fe426f18a1a";  //trocar chave
+
+const apiKey ="ba605efc18f1572f61892fe426f18a1a";  
 const apiContryUrl = "https://www.countryflagsapi.com/png/";
 
 
