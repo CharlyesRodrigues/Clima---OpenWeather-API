@@ -58,8 +58,7 @@ cityElement.innerText = data.name;
 tempElement.innerText = parseInt(data.main.temp);
 descElement.innerText = data.weather[0].description; 
 
-weatherIconElement.setAttribute(
-"src",
+weatherIconElement.setAttribute("src",
 `https://openweathermap.org/img/wn/${data.weather[0].icon}.png`);
 
 countryElement.setAttribute("src", apiContryUrl + data.sys.country);
@@ -80,3 +79,14 @@ const city = cityInput.value;
 showWeatherData(city);
 
 });
+
+// Comando abaixo permite criar a pesquisa através do enter do teclado
+cityInput.addEventListener("keyup" ,(e) =>{
+
+if(e.code === "Enter" ){
+const city = e.target.value;
+showWeatherData(city);
+
+}
+
+})
