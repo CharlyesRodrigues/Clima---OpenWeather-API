@@ -45,7 +45,7 @@ Ubuntu => instalei essa com todas suas variações
  
  * ( API utilizada (Current weather data) => https://api.openweathermap.org/data/2.5/weather?)
   
- * CountryFlagsAPI          https://www.countryflagsapi.com/
+ * CountryFlagsAPI => https://www.countryflagsapi.com/
 
   Esse projetinho nos permite pesquisar o clima de cidades ou países e nos mostra suas respectivas bandeiras.
   
